@@ -1,0 +1,25 @@
+.row {
+  display: flex;
+  margin: 0 auto;
+  width: 500px;
+}
+
+.tile {
+  padding: 10px;
+  background: gray;
+  border: 2px solid white;
+  border-style: inset;
+  border-style: outset;
+}
+
+.revealed {
+
+}
+
+.flagged {
+
+}
+
+.bombed {
+
+}
